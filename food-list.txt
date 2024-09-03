@@ -4,4 +4,15 @@ food list :
 3. Cah Kangkung
 4. Daging semur
 5. Emping Jagung
-6. Frozen Food
+6. Frozen Food Baso Ikan
+7. Gado Gado
+8. Hamburger Rendang
+9. Iga Bakar
+10. Jasuke
+11. Karedok
+12. Lumpia
+13. Mie Goreng
+14. Nasi Goreng
+15. Otak Otak
+16. Perkedel
+17. Rendang
