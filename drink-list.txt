@@ -1,6 +1,11 @@
 Drink list :
-1. Avocado juice
-2. Banana smooth
-3. Cherry juice 
-4. Durian juice
+1. Avocado Juice
+2. Banana Smoothie
+3. Cherry Juice 
+4. Durian Juice
 5. Es Cendol
+6. Frestea
+7. Ginger Tea
+8. Hemaviton Jreng
+9. Kopi Luwak
+10. Legen
